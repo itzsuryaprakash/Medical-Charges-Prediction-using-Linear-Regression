@@ -1,2 +1,3 @@
 # Medical-Charges-Prediction-using-Linear-Regression
-A machine learning project using linear regression to predict medical insurance charges based on features like age, BMI, smoker status, and more. The project includes data preprocessing, model training, and visualization of actual vs. predicted charges.
+### Overview
+This project applies a Linear Regression model to predict medical insurance charges based on various features such as age, sex, BMI, number of children, smoking status, and region. The project covers data preprocessing, model training, evaluation, and visualization of actual versus predicted results.
